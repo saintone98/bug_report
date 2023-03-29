@@ -1,8 +1,4 @@
-# School Registration and Fee System v1.0 has SQL injection
-
 BUG_Author:saintone98
-
-Website source address:https://www.sourcecodester.com/php/10932/school-registration-and-fee-system.html
 
 Vulnerability File: /bilal final/login.php
 
